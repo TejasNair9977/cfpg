@@ -1,0 +1,3 @@
+#!/bin/bash
+./part1-bin.exe &
+exit
