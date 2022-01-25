@@ -8,3 +8,4 @@ In this project, we are simulating an apparatus capable of Plasma Gasification, 
 We first provide it with the type of waste that we are going to incinerate. The program will give us the ideal temperature that would be needed for this waste to be converted into slag with most efficiency. We can change the temperature given to us by the program how much ever we want, by modifying the flow of gases and changing the electrode to suit our needs.
 ## What was our objective?
 Our motivation for this project was simply spreading awareness of the process of plasma gasification and just how flexible and efficient it can be, compared to landfills and burning of waste that is so common in India. This lines up with our objective, which is not only to become better at coding, but also becoming competent enough to learn to help our nation progress in the later years.
+Contributors :- Tejas Nair , Kartik Nambiar
